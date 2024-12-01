@@ -1,0 +1,40 @@
+{
+    "destinations" : [
+      {
+        "name": "Paris",
+        "country": "France",
+        "description": "The city of lights, known for its rich history, culture, and architecture. Must-see attractions include the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral.",
+        "peak_season": "June to August",
+        "image": "paris.jpg"
+      },
+      {
+        "name": "New York City",
+        "country": "USA",
+        "description": "The city that never sleeps offers iconic landmarks such as the Statue of Liberty, Central Park, Times Square, and a thriving arts scene.",
+        "peak_season": "April to June, September to November",
+        "image": "new_york.jpg"
+      },
+      {
+        "name": "Tokyo",
+        "country": "Japan",
+        "description": "A fascinating mix of modern skyscrapers and traditional temples. Visit the Tokyo Tower, Senso-ji Temple, and experience the famous Shibuya Crossing.",
+        "peak_season": "March to May, September to November",
+        "image": "tokyo.jpg"
+      },
+      {
+        "name": "Sydney",
+        "country": "Australia",
+        "description": "Known for its Sydney Opera House, Harbour Bridge, and beautiful beaches like Bondi and Manly. Explore the vibrant arts scene and laid-back lifestyle.",
+        "peak_season": "September to November, March to May",
+        "image": "sydney.jpg"
+      },
+      {
+        "name": "Cape Town",
+        "country": "South Africa",
+        "description": "Nestled between mountains and the ocean, Cape Town is famous for its Table Mountain, Robben Island, and beautiful beaches. A must-visit for nature lovers.",
+        "peak_season": "November to March",
+        "image": "cape_town.jpg"
+      }
+    ]
+  }
+  
